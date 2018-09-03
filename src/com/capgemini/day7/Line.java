@@ -9,7 +9,7 @@ public class Line {
 	public static int LineCount() {
 		// TODO Auto-generated constructor stub
 		
-			File file=new File("C:\\Users\\malykk\\Documents\\a.txt");
+			File file=new File("C:\\Users\\malykk\\Documents\\b.txt");
 			int count=0;
 			
 			try(FileReader readfile=new FileReader(file);

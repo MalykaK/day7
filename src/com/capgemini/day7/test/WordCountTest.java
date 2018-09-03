@@ -11,7 +11,7 @@ class WordCountTest {
 	@Test
 	void test() {
 		//fail("Not yet implemented");
-		assertEquals(65, WordCount.countWords(null));
+		assertEquals(100, WordCount.countWords(null));
 		//fail("Not yet implemented");
 	}
 
